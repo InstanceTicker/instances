@@ -13,11 +13,11 @@
 - Google Spreadsheet で作成しています。
 
 - SNS番号 が `0` である場合は、SNS の種類とそのデフォルトのデータとなっており、空欄の場合は無視され、注釈がかけるようになります。 
-- 画像データは、Webp の Data URI Schemeを入れます。`deta:` から入力します。
+- 画像データは、Data URI Schemeを入れます。`deta:` から入力します。
 
-|  id  |  sns |  host  |  domain  |  text  |  width  |  tcolor  |  bcolor  |  scolor  |  bicon  |  sicon  |  eicon  |  iicon  |  url  |  entry  |  exity  |  icon  |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-|  id  |  SNS番号 |  ホスト  |  索引用ドメイン  |  表示名  |  画像の横幅  |  表示名色  |  背景色  |  表示名影色  |  画像背景色個別指定  |  同一画像をidで指定  |  eicon  |  画像のライセンス情報  |  Wiki等のURL  |  エントリ日 or 最古存在確認日時)  |  非エントリ日  |  画像データ |
+|  id  |  sns |  host  |  domain  |  text  |  width  |  tcolor  |  bcolor  |  scolor  |  bicon  |  sicon  |  eicon  |  iicon  |  url  |  entry  |  exity  |  webp  |  avif  |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+|  id  |  SNS番号 |  ホスト  |  索引用ドメイン  |  表示名  |  画像横幅  |  表示名色  |  背景色  |  表示名影色  |  画像背景色<br>個別指定  |  同一画像<br>id指定  |  eicon  |  画像情報  |  URL  |  エントリ日<br>最古存在日  |  非エントリ日  |  webp画像 |  avif画像 |
 
 ## instances.db
 
