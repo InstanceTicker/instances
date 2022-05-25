@@ -15,9 +15,14 @@
 - SNS番号 が `0` である場合は、SNS の種類とそのデフォルトのデータとなっており、空欄の場合は無視され、注釈がかけるようになります。 
 - 画像データは、Data URI Schemeを入れます。`deta:` から入力します。
 
-|  id  |  sns |  host  |  domain  |  text  |  width  |  tcolor  |  bcolor  |  scolor  |  bicon  |  sicon  |  eicon  |  iicon  |  url  |  entry  |  exity  |  webp  |  avif  |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-|  id  |  SNS番号 |  ホスト  |  索引用ドメイン  |  表示名  |  画像横幅  |  表示名色  |  背景色  |  表示名影色  |  画像背景色<br>個別指定  |  同一画像<br>id指定  |  eicon  |  画像情報  |  URL  |  エントリ日<br>最古存在日  |  非エントリ日  |  webp画像 |  avif画像 |
+<!--
+|id|sns|host|domain|text|width|tcolor|bcolor|scolor|bicon|sicon|eicon|iicon|url|entry|exity|<s>icon</s>|webp|avif|
+|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+|id|sns<br>番<br>号|ホスト|ド<br>メ<br>イ<br>ン<br>索<br>引<br>用|表<br>示<br>名|画<br>像<br>横<br>幅|表<br>示<br>名<br>色|背<br>景<br>色|表<br>示<br>名<br>影<br>色|画<br>像<br>背<br>景<br>色<br>個<br>別|同<br>一<br>画<br>像<br>id<br>指<br>定|eicon|画<br>像<br>ラ<br>イ<br>セ<br>ン<br>ス<br>情<br>報|URL|エ<br>ン<br>ト<br>リ<br>日<br>or<br>最<br>古<br>確<br>認<br>日|非<br>エ<br>ン<br>ト<br>リ<br>日|<s>廃<br>止</s>|webp<br>画<br>像|avif<br>画<br>像|
+-->
+
+![説明書っぽい感じの印刷](https://user-images.githubusercontent.com/3696720/170194450-7994cb1c-525e-4117-8abd-5af91501ead8.png)
+
 
 ## instances.db
 
