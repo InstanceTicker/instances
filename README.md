@@ -13,15 +13,11 @@
 - Google Spreadsheet で作成しています。
 
 - SNS番号 が `0` である場合は、SNS の種類とそのデフォルトのデータとなっており、空欄の場合は無視され、注釈がかけるようになります。 
-- 画像データは、Data URI Schemeを入れます。`deta:` から入力します。
+- webp / avif 画像データは、Data URI Schemeを入れます。`deta:` から入力します。
 
-<!--
-|id|sns|host|domain|text|width|tcolor|bcolor|scolor|bicon|sicon|eicon|iicon|url|entry|exity|<s>icon</s>|webp|avif|
-|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
-|id|sns<br>番<br>号|ホスト|ド<br>メ<br>イ<br>ン<br>索<br>引<br>用|表<br>示<br>名|画<br>像<br>横<br>幅|表<br>示<br>名<br>色|背<br>景<br>色|表<br>示<br>名<br>影<br>色|画<br>像<br>背<br>景<br>色<br>個<br>別|同<br>一<br>画<br>像<br>id<br>指<br>定|eicon|画<br>像<br>ラ<br>イ<br>セ<br>ン<br>ス<br>情<br>報|URL|エ<br>ン<br>ト<br>リ<br>日<br>or<br>最<br>古<br>確<br>認<br>日|非<br>エ<br>ン<br>ト<br>リ<br>日|<s>廃<br>止</s>|webp<br>画<br>像|avif<br>画<br>像|
--->
 
-![説明書っぽい感じの印刷](https://user-images.githubusercontent.com/3696720/170194450-7994cb1c-525e-4117-8abd-5af91501ead8.png)
+![説明書っぽい感じの印刷](https://user-images.githubusercontent.com/3696720/170199552-eed59319-c300-4fa1-990a-6a23bc8b8b94.png)
+
 
 
 ## instances.db
