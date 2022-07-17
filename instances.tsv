@@ -432,7 +432,7 @@
 431	1	nitiasa.com	nitiasa.com									20181003T062200Z			
 432	1	mstdn.tomokiwakimoto.com	tomokiwakimoto.com	..tomokiwakimoto.com								20181004T062400Z			
 433	1	crypto-don.net	crypto-don.net									20181008T150000Z			
-434	1	yakumo.foundation	yakumo.foundation									20181010T032600Z			
+434	1	yakumo.foundation	yakumo.foundation							2899		20181010T032600Z			
 435	1	mstdn.kessai-otaku.club	kessai-otaku.club	..kessai-otaku.club								20181010T153400Z		data:image/webp;base64,UklGRnoBAABXRUJQVlA4WAoAAAAQAAAADwAADwAAQUxQSIwAAAABgGJt27LovLgkbyS36tBJJHdYgJOprpFEc5fGCizCzCTLrg33bwsRMQEANH9r8bne/j+O4zIA4Lzsb1xZAfr7m3/Y+t1t+5J5j9iwobSQmhaUsgElpkMxcxDmFNzHfr9dXXrNUAEa+/0vV2n0ufQiMgCAdrffh+Dm6Ga/e2hXRs+4SyAvTr52f7PEBVZQOCDIAAAAMAMAnQEqEAAQAAHALCWwAnRrAFx/2R8RCpgWmwc8RazQAAD+3jkOIFoItEIz2mQMrwqjkZzAzT6uY0y+AI5FI08/Uj/57f96/GfwIpEwAalU6HmQVRx6m87f5CWtxbuYJ14WpipGSweECNI5+UvVfr03k7dc/HXU2j005VwafLvbI0S+fDkOb8KTeHS/tBH5e8VKoatab/hGE735nf4Rj//O1eIDUov5pSp5F8iCN5fe26Ljydq2X/lTM8uIrp8bf73cU7gAAAA=	
 436	1	plustodon.net	plustodon.net	＋Plustodon		#fff	#db4437	#db4437	transparent		管理者提出(PD)	20181024T142000Z		data:image/webp;base64,UklGRvwAAABXRUJQVlA4IPAAAAAQBACdASoQABAAAcAsJbACdLoAfhv5QFGAxXKraPLG6gGZ3XkpkNuNsAD+8pLGW5WtJdiocBvYYvSP/cdcFRq77KYtEd/xcpoyvZOxIGgVeCM+awPkr+OXYT+owtl4ZewVDeP/p/1KPMcTLp6JdsVHKhqfSfxI3lFxHZvL3n3kMLLaq1R28j7yAv/liY2v5yGF/Na8S6qIbDqeNRKaXF38cWOYNzTa17gsthJNlEyc1Owe3ghyP9DB2mQNUDnhlylN1cIAzFNTqy//OVqv8/7+X1p/8HMj8Lb+KhRv2wJ5PZ/rbXeCb0d1rqeD6s1gAAA=	
 437	1	ma.fono.jp	fono.jp									20181031T143800Z			
@@ -658,7 +658,7 @@
 657	1	nonbiridon.hostdon.ne.jp	hostdon.ne.jp							273		20210809T091955Z			
 658	1	unkomaker.hostdon.ne.jp	hostdon.ne.jp									20210914T095600Z		data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoOAA4AA8BgJZgCdAEO6o5jS4AA/usneFtib2yi6T/aeQbH4QEmoxZ96qoiajqt06tSHjI5ExudPzdUAZ3YbldflPVtCoKfAAA=	
 659	1	integrity.hostdon.ne.jp	hostdon.ne.jp							273		20220221T000000Z			
-660	1	vandrare.page	vandrare.page									20210823T142511Z		data:image/webp;base64,UklGRq4AAABXRUJQVlA4WAoAAAAQAAAADQAADQAAQUxQSGUAAAABcFvbtmntb7Xg1JH9O2Ko0P9nVlG2mTIy7r01RMQEDF9vxlfv9mY+FZ4sz6zmyLLXyBIsETHMW9rKBAhjtAAHgG9OGjkBgJskRUH0D//adhKKfwVQbaP3u62lofW4V8GonfTlBABWUDggIgAAAHABAJ0BKg4ADgAPwP4lsAJ0AAAAANq6rWWId7vMCMLfAAA=	
+660	1	vandrare.page	vandrare.page									20210823T142511Z		data:image/webp;base64,UklGRrwAAABXRUJQVlA4WAoAAAAQAAAADQAADQAAQUxQSG8AAAABcBvb2qK8xd0lshLcpQCGEsi0BQu1A40YMoYWdijCOnDJIHJZ3woiYgJATU4bNjC6mtvPY55TUAyFxYd6m/gJOGePD+Muj+Dlw3KE4InNUFQ+Vj1oqxuGJxkD4BtfKeuKEVR5lrzvu14w2woZ0AIAVlA4ICYAAACQAQCdASoOAA4AD8D+JbACdABtcAAA1zZMfWmq26dX0OkOWpEAAA==	
 661															
 662															
 663	1	noridon.hostdon.ne.jp	hostdon.ne.jp							273		20210814T073100Z			
@@ -744,10 +744,10 @@
 743															
 744		※ここから[c-] mastodon jp 予備													
 745															
-746	1	jibun.club	jibun.club									20220307T075217Z			
+746	1	freespeech.gaac2.com	gaac2.com	GAAC2		#666	#eee	#eee				20220713T091005Z		data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAACQAQCdASoOAA4ACQCsJaQAAWXTEAAA/tObSq4zIK4fwIxvdqfOF18tBsjXqL//y59TrJ1ay4FUYwHA2QQjKCSAAAA=	
 747	1	mastodon.xn--t8jzbl7g.jp	xn--t8jzbl7g.jp	mastodon.おったぺ.jp								20220326T041900Z			
 748	1	underground-side-kochira-kotonoha.xyz	underground-side-kochira-kotonoha.xyz	underground - kotonoha								20211015T170115Z			
-749	1	freespeech.gaac2.com	gaac2.com									20220713T000000Z			
+749	1	jibun.club	jibun.club									20220307T075217Z			
 750															
 751															
 752															
@@ -1705,7 +1705,7 @@
 1704	4	rumia.tk	rumia.tk									20220517T204255Z		data:image/webp;base64,UklGRugAAABXRUJQVlA4WAoAAAAQAAAADQAADQAAQUxQSIcAAAANgFvbtqltf3bs1LYVsgCjIeYOvwr8NYBfkW2Eth5qiIgJADFZXXTWH0AZeomkNgYnZDwjIK3IulskukcArLS/v01w3oMYt7UINpC7DgDIJGRfTQ4A3SsZy7IHwPJMhuQ6N+beB6VK5C+AJkcd/gEe5/cMwpfjVMrH2vCBhMmZnGauRkx8EwAAVlA4IDoAAADwAQCdASoOAA4ABcCEJbACdAEDCN5e/gAA2hkjO4b5xXgiqB0xRuJZkpciOFt/1827X9+vghzYAAAA	
 1705	4	mi.cbrx.io	cbrx.io									20220711T115812Z		data:image/webp;base64,UklGRtQAAABXRUJQVlA4WAoAAAAQAAAADQAADQAAQUxQSDMAAAABX6CmkRQ4fAdUbwuWcEBExPXO062FhJnaNuLIoI0q8vyV6cfzRgEi+j8B5RsL8pMDakgAVlA4IHoAAACQAgCdASoOAA4ABMB4JbACdH8AgojBXjqlRXfuQAD+75MjoVeBVjA2Wc/YRa1U/H6Dg2UCOMrckgW6MJydj3nxJ2GEzGQC3vVU8794bdTraV45Hpe+LsRuErL4nnSFvg/R1Bf8vnnhqyukronwYOaZ/O/K/pKoCTgAAA==	
 1706	4	mk.disqordia.space	disqordia.space									20220709T063151Z		data:image/webp;base64,UklGRugAAABXRUJQVlA4WAoAAAAQAAAADQAADQAAQUxQSIwAAAABcGLb1rJc3B2qW3Vt0DSRWGSIMgC3RGIxARaV7G5JO50BEN1lDBExAXqLEP+6EjGjJJDKBEUfykghOjs+HpepFQDVmd89vm4VALiVx88UAFLjV5cGUJq/FiwA1V91IgD34dspCgCk5PFLJy4FAGp4tN8va6VyiIVPllIl1gVjCcOXT4LQ4LH/AZB4IlZQOCA2AAAAEAIAnQEqDgAOAAkArCWwAnQBA/pE5cRzEAD90mJBCir7v4USXWjZD7hhlymw9q6Wg+TP4CAA	
-1707															
+1707	2	moien.net	moien.net									20220706T085020Z		data:image/webp;base64,UklGRhIBAABXRUJQVlA4WAoAAAAQAAAADQAADQAAQUxQSLgAAAABgCPbtmlrPePbtkPbNhvwU9u2f2b7x3ZmxrZt+/m1ISImAMJrCkcs4UMhwKBcA7IL0BSFSnsgrZuVB6u7zL0yZiNrMOLrPRBRLNb3cc7V1/Q6a4xJ6Hu+zNm4GD26/f0Ng8TqgL/dy1nu++/ToTbodUlIYXU2sNaPJ2jGjgs+IlNf4Ws/FVetToOhW0WODysxf6uWR/v71RRPsxpWaSIrDWXf/XIA8p/cdfuNIO4sBwDy2YqQJUEgVlA4IDQAAACwAQCdASoOAA4AD8D+JbACdACGttAAANZH3h83woFwO9UWve/GNxU4cLEmPg7Xh11P2AAA	
 1708															
 1709															
 1710															
@@ -3022,7 +3022,7 @@
 3021	2	cipioshouse.xyz	cipioshouse.xyz									20210806T083803Z			
 3022	2	mastodon.astrr.ru	astrr.ru	..astrr.ru								20210609T205940Z			
 3023	2	social.dev-wiki.de	dev-wiki.de	..dev-wiki.de								20211109T150000Z			
-3024	2	inherently.digital	inherently.digital									20191011T064609Z			
+3024	2	inherently.digital	inherently.digital							2899		20191011T064609Z			
 3025	2	wetdry.world	wetdry.world									20210803T124852Z			
 3026	2	social.masto.host	masto.host						#fff			20180512T131348Z		data:image/webp;base64,UklGRuwAAABXRUJQVlA4WAoAAAAQAAAADQAADQAAQUxQSKgAAAABgGPb2rHn/rZVsWfYokrHEXgEWWlT2exT2rZtVrZtvf8TJ0OIiAkAuEYLD+DhW3FYzXiMT2i0W/wl5JCI9olW40SAIoN+3E3XQZH2E73VGLWFJ95vWGf7c6nv9uDM+RsR1dhtI4sNb88n10S039JTtpEyzujbrcrerhR9FXs4uX97Zlc7yTIgwnuSk5A4yK5WSvSAeX4nCkhi88EWAEJHoB4cU5AH/wlWUDggHgAAAHABAJ0BKg4ADgAPwP4lsAJ0AUAAAJspudNAjDOsAA==	
 3027	2	social.snopyta.org	snopyta.org	..snopyta.org								20191224T112523Z			
@@ -3042,7 +3042,7 @@
 3041	2	mastodon.ericlathrop.com	ericlathrop.com	..ericlathrop.com								20200724T193427Z	20220525T000000Z		
 3042	2	social.datalabour.com	datalabour.com	..datalabour.com								20211027T131355Z			
 3043	2	fedi.9til.de	9til.de									20201130T094012Z			
-3044	2	berserker.town	berserker.town									20220220T214444Z			
+3044	2	berserker.town	berserker.town							2899		20220220T214444Z			
 3045	2	mcd.dk	mcd.dk									20220124T124330Z			
 3046	2	democracy.town	democracy.town									20201206T192453Z			
 3047	2	fairy.id	fairy.id									20220210T112116Z		data:image/webp;base64,UklGRvgAAABXRUJQVlA4WAoAAAAQAAAADQAADQAAQUxQSLIAAAABgCPbtmlrPdvftm3bNiMbqW0rVGzbiKzU/pnRgoc2RMQEKCpA5rA2XTmSDL5Rg+ueEPmkqYAAWCQ1fN93HNydV5QYAW4h1Oz/j6nYoPKrVioUyeAfl/h05dlF7kYCUPWY0I4q8g+z6LrQAZwvB3Srs1RsRNl9egB1dF6QowEqo9QXALKfvaz0iVzTCV0xYdN+YkpI9tJ7ERkAM7WibORso7j3LQYSCa71xmCEBEgCERIBVlA4ICAAAABwAQCdASoOAA4AD8D+JbACdAFAAAD+snvofOFaKMIAAA==	
@@ -3054,7 +3054,7 @@
 3053	2	social.pixie.town	pixie.town	..pixie.town								20190531T004856Z			
 3054	2	indieweb.social	indieweb.social									20190902T010958Z			
 3055	2	edi.social	edi.social									20220503T074920Z			
-3056	2	moresci.sale	moresci.sale									20201202T021129Z			
+3056	2	moresci.sale	moresci.sale									20201202T021129Z		data:image/webp;base64,UklGRtoAAABXRUJQVlA4WAoAAAAQAAAADQAADQAAQUxQSIAAAAABgJtt2/HsiV3a6NNqBTudzTILcAMnC2SGDJDOTmX9rRlrg4iYAHgqhYG+wjBJwdaresVoAH68ta9A8H//P62GMqP9fl8j+n73NzaowZuWEvfPLe8G6+ct+5hse+Hnf79/LQrwqtLwc7//2u/reiwAIFjK7OT/JcGA60KbAgEPBFZQOCA0AAAA8AEAnQEqDgAOAAsAwCWIArABHugjdZAAAPDbcliqakDdWrJdFSgO8C785pEcZjkX5arIAA==	
 3057	2	literatur.social	literatur.social									20190330T233237Z			
 3058	2	nonexiste.net	nonexiste.net									20181205T181345Z			
 3059	2	mammouth.inframed.net	inframed.net									20170419T162826Z			
@@ -3072,13 +3072,13 @@
 3071	2	toot.mantyke.icu	mantyke.icu									20211128T032102Z			
 3072	2	hyan.ink	hyan.ink									20201005T000000Z			
 3073	2	burymein.black	burymein.black						transparent	2873		20200704T211846Z			
-3074	2	mastodon.coffee	mastodon.coffee							2899		20220502T222140Z			
+3074	2	mastodon.coffee	mastodon.coffee							2899		20220502T222140Z		data:image/webp;base64,UklGRtYAAABXRUJQVlA4WAoAAAAQAAAADQAADQAAQUxQSJMAAAABgGNt2/HojW3bqXJSp7OT3hnb09m2XWERqmxPhy14+pnwyxoiYgIASTBTAYkRmSwROcpQUV9kpeYh2MYOX5533PgcQudnKvejiYoFULyl8r8fzGlB/op4TJ5MAOcGcVp51QrsM8T7bg1DvvCD+NoywmCq0Bko+y7gNw7E6OnPfyqV+vs6DBMAQBjq2dxebfPyAQAAVlA4IBwAAAAwAQCdASoOAA4AD8D+JaQAA3AA/tcKHp5SWAAA	
 3075	2	social.exozy.me	exozy.me	..exozy.me								20210521T172005Z			
 3076	2	masto.rocks	masto.rocks									20220511T193237Z			
 3077	2	kafeneio.social	kafeneio.social									20220511T193237Z			
-3078	2	moien.net	moien.net							2899		20220617T000000Z			
+3078															
 3079	2	fedi.vern.cc	vern.cc									20220511T092340Z			
-3080	2	mastodon.nz	mastodon.nz									20200323T024141Z			
+3080	2	mastodon.nz	mastodon.nz									20200323T024141Z		data:image/webp;base64,UklGRtQAAABXRUJQVlA4WAoAAAAQAAAADQAADQAAQUxQSIYAAAABgFtt2/LkjSeVu6d199q9cneZIGltjLQ49JQcVqB0WcAdfv9niIgJALry3gkNQfn8EyEw9Uqeb+8DQQjs+eXF6SNCZEkdsyeEutXI7CA0pezuzvaFCsILIXP+TCEcygHY6b2bD0LUAUSOOT5eHP45OSSkyx0WUKvHZxagZvo3xRINABDHAFZQOCAoAAAAcAEAnQEqDgAOAAmAsiWwAnQBvoAA/tJi1WAZpHlLrE0QChcRCAAAAA==	
 3081	2	social.doma.dev	doma.dev	..doma.dev								20201120T233113Z			
 3082	2	m.intoxvs.info	intoxvs.info									20211110T000000Z			
 3083	2	social.enovale.com	enovale.com	..enovale.com								20220706T033636Z			
